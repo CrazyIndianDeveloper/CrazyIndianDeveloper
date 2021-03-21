@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hiii, I'm Vijay Mahajan 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre>
+### Hi there 👋 I'm Vijay Mahajan 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre>
 
 
 <br />
