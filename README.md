@@ -2,7 +2,6 @@
 <p align="center">
 	<a href="https://github.com/crazyindiandeveloer"><img src="https://img.shields.io/github/followers/crazyindiandeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
-<br />
 
 ### About Me : 
 
