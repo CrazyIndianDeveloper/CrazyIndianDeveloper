@@ -4,11 +4,9 @@
 <br />
 <br />
 
-<p align="center">
-	<a href="https://github.com/CrazyIndianDeveloper"><img src="https://img.shields.io/github/followers/CrazyIndianDeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
-</p>
 
-<p><br/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en" alt="crazyindiandeveloper	" /></p>
+
+<p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
 
 ## THANK YOU ! :-)
 
