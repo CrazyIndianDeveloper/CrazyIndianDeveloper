@@ -2,8 +2,6 @@
 <p align="center">
 	<a href="https://github.com/crazyindiandeveloer"><img src="https://img.shields.io/github/followers/crazyindiandeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
-
-<br />
 <br />
 
 ### About Me : 
@@ -11,7 +9,6 @@
 I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
 
-<br />
 <br />
  
 ## **Talking about Personal Stuffs:**
@@ -25,7 +22,6 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 - 📫 How to reach me: [**Instagram**](https://www.instagram.com/mahajan__vijay) - I just love meeting people here.
 
 <br/>
-<br/>
 
 
 ## **Languages and Tools:**  
@@ -38,7 +34,6 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br/>
 <br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
 
