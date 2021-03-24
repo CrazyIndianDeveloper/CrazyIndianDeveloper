@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Crazy Indian Developer 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre>
+### Hii there <img src="https://github.com/CrazyIndianDeveloper/CrazyIndianDeveloper/blob/main/wavehand.gif" width="30px">  I'm Crazy Indian Developer 👋🏾‍💻		--------==>	![Profile Views Counter](https://komarev.com/ghpvc/?username=CrazyIndianDeveloper&label=PROFILE+VIEWS&color=green) </pre> 
+
 <p align="center">
 	<a href="https://github.com/crazyindiandeveloer"><img src="https://img.shields.io/github/followers/crazyindiandeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
@@ -56,7 +57,7 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...👋
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
