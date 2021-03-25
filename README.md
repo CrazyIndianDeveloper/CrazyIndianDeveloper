@@ -12,7 +12,7 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 
 
 <br />
- 
+
 ## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🌱 I’m currently learning **Computer Applications And Cyber Security**.	
@@ -52,6 +52,8 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 <br />
 
 ## THANK YOU !  :sparkling_heart:  
+
+
 
 <!--
 **CrazyIndianDeveloper/CrazyIndianDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
