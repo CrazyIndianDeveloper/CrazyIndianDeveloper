@@ -52,7 +52,6 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 <br />
 
 ## THANK YOU !  :sparkling_heart:  
-![Visitor Count](https://profile-counter.glitch.me/crazyindiandeveloper/count.svg)
 
 <!--
 **CrazyIndianDeveloper/CrazyIndianDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
