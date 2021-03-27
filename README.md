@@ -8,7 +8,7 @@
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 	
-### About Me : 
+### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
 
 I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
 
