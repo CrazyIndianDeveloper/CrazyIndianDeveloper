@@ -53,8 +53,8 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 </a>
 
 
-<a href="https://github.com/crazyindiandeveloper/XeroSploit-Installer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=XeroSploit-Installer&theme=material-palenight" />
+<a href="https://github.com/CrazyIndianDeveloper/DesktopWatchV1.0">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=DesktopWatchV1.0&theme=material-palenight" />
 </a>
 <br />
 
