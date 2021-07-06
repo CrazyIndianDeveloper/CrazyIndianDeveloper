@@ -43,6 +43,7 @@ I'm an student of **Computer Application**. I'm very passionate about making my 
 <br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
 
+	 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
 <br/>
 
 <p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
